@@ -59,11 +59,10 @@ img {
 }
 
 .btn {
-    margin: 1px auto;
-    width: 100%;
-    border: none;
-    background-color: rgb(214, 214, 214);
-    border-radius: 20px;
+    background-color: lightblue;
+    padding-left: 50px;
+    padding-right: 50px;
+    float: right;
 }
 
 .btn:hover {
