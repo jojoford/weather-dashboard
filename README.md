@@ -16,6 +16,8 @@ Then current and future conditions for that city will display
 
 Used: HTML, CSS, JAVASCRIPT
 
+Link to deployed site: https://jojoford.github.io/weather-dashboard/
+
 Mock-up:[![06-server-side-apis-homework-demo.png](https://i.postimg.cc/GmSZMSMx/06-server-side-apis-homework-demo.png)](https://postimg.cc/4YVLywRY)
 
 Weather dashboard in progress:[![weather-dashboard-screenshot.jpg](https://i.postimg.cc/d1cNpMGr/weather-dashboard-screenshot.jpg)](https://postimg.cc/hJM0Q5yt)
