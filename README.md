@@ -1,4 +1,4 @@
-# weather-dashboard
+# Weather-dashboard
 
 Description: Weather dashboard with form inputs
 This project was designed to help us gain a better understanding of the use of APIs
