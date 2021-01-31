@@ -29,7 +29,7 @@ img {
     height: 100px;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
-    color: white;
+    color: black;
 }
 #header-text {
     color: rgb(255, 255, 255);
@@ -97,7 +97,7 @@ img {
 
 .forecast-div {
     border: 1px solid rgba(112, 112, 112, 0.315);
-    background-color: rgba(255, 255, 255, 0.295);
+    background-color:rgba(255, 255, 255, 0.295);
     margin: 15px;
     height: 200px;
     float: left;    
@@ -122,9 +122,9 @@ img {
 .forecast-box {
     width: 120px;
     height: 140px;
-    background-color: rgb(230, 230, 230);
+    background-color:lightblue;
     float: left;
-    border: 1px solid rgba(112, 112, 112, 0.315);
+    border: 1px solid blue;
     margin: 15px 1% 0px 1%;
     border-radius: 10px;
     padding: 0 4px;
@@ -165,5 +165,7 @@ footer {
         border-top-left-radius: 0px;
         border-bottom-left-radius: 0px
     }
+
+  }
 
   }
